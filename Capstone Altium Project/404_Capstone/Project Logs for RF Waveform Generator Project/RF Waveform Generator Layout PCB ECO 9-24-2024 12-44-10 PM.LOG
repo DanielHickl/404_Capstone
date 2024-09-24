@@ -1,0 +1,423 @@
+Removed Pin From Net: NetName=VCC Pin=Jd2-1
+Removed Pin From Net: NetName=GND Pin=Jd2-2
+Removed Pin From Net: NetName=+20 Pin=Jd2-4
+Removed Pin From Net: NetName=VCC Pin=Rd1-1
+Removed Pin From Net: NetName=VCC Pin=Rd2-1
+Removed Pin From Net: NetName=VCC Pin=Rd3-1
+Removed Pin From Net: NetName=VCC Pin=Rd4-1
+Removed Pin From Net: NetName=VCC Pin=Rd5-1
+Removed Pin From Net: NetName=VCC Pin=Rd6-1
+Removed Pin From Net: NetName=VCC Pin=Rd7-1
+Removed Pin From Net: NetName=VCC Pin=Rd8-1
+Removed Pin From Net: NetName=VCC Pin=Rd12-2
+Removed Pin From Net: NetName=VCC Pin=Rd13-2
+Removed Pin From Net: NetName=VCC Pin=Rd14-2
+Removed Pin From Net: NetName=VCC Pin=Rd15-2
+Removed Pin From Net: NetName=NetCr3_1 Pin=RFAmp-1
+Removed Pin From Net: NetName=NetCr1_1 Pin=RFAmp-2
+Removed Pin From Net: NetName=GND Pin=RFAmp-3
+Removed Pin From Net: NetName=GND Pin=RFAmp-4
+Removed Pin From Net: NetName=GND Pin=RFAmp-5
+Removed Pin From Net: NetName=NetRF Amp_6 Pin=RFAmp-6
+Removed Pin From Net: NetName=NetCr2_2 Pin=RFAmp-7
+Removed Pin From Net: NetName=GND Pin=RFAmp-8
+Removed Pin From Net: NetName=GND Pin=RFAmp-9
+Removed Pin From Net: NetName=GND Pin=SWd1-16
+Removed Pin From Net: NetName=GND Pin=SWd2-15
+Removed Pin From Net: NetName=GND Pin=SWd3-14
+Removed Pin From Net: NetName=GND Pin=SWd4-13
+Removed Pin From Net: NetName=GND Pin=SWd5-12
+Removed Pin From Net: NetName=GND Pin=SWd6-11
+Removed Pin From Net: NetName=GND Pin=SWd7-10
+Removed Pin From Net: NetName=GND Pin=SWd8-9
+Removed Pin From Net: NetName=Net_6 Pin=VCO-1 (VCC)
+Removed Pin From Net: NetName=GND Pin=VCO-2
+Removed Pin From Net: NetName=GND Pin=VCO-3
+Removed Pin From Net: NetName=GND Pin=VCO-4
+Removed Pin From Net: NetName=Net_2 Pin=VCO-5 (RF)
+Removed Pin From Net: NetName=GND Pin=VCO-6
+Removed Pin From Net: NetName=GND Pin=VCO-7
+Removed Pin From Net: NetName=GND Pin=VCO-8
+Removed Pin From Net: NetName=GND Pin=VCO-10
+Removed Pin From Net: NetName=GND Pin=VCO-11
+Removed Pin From Net: NetName=GND Pin=VCO-12
+Removed Pin From Net: NetName=GND Pin=VCO-14
+Removed Pin From Net: NetName=GND Pin=VCO-15
+Removed Pin From Net: NetName=GND Pin=VCO-16
+Add Component: Footprint Not Found CONN_22-05-2061_MOL
+Add Component: Footprint Not Found 1935187
+Add Component: Footprint Not Found SHDR2W130P0X1016_1X2_1524X900X1550P
+Add Component: Footprint Not Found LED_XZCDGK54W-1VF_SLD
+Add Component: Footprint Not Found 0603CS82NXGLW
+Added Component: Designator=P?(61300611121)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "20084590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2013X70X40NL20T20)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "04/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2013X70X40NL20T20)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "04/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2013X70X40NL20T20)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "04/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2013X70X40NL20T20)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "04/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2013X70X40NL20T20)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "04/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Component: Designator=Rd20(FP-RR1220-IPC_A)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "0.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "THIN FILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "25ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SON52P200X200X95-9N
+Add Component: Footprint Not Found DNT12_TEX
+Add Component: Footprint Not Found TPS61299DRLRQ1
+Add Pin To Net: Unknown Pin: Pin -1
+Add Pin To Net: Unknown Pin: Pin -2
+Add Pin To Net: Unknown Pin: Pin -3
+Add Pin To Net: Unknown Pin: Pin -4
+Add Pin To Net: Unknown Pin: Pin -5
+Add Pin To Net: Unknown Pin: Pin -6
+Add Pin To Net: Unknown Pin: Pin -7
+Add Pin To Net: Unknown Pin: Pin -8
+Add Pin To Net: Unknown Pin: Pin -9
+Add Pin To Net: Unknown Pin: Pin -10
+Add Pin To Net: Unknown Pin: Pin -11
+Add Pin To Net: Unknown Pin: Pin -12
+Add Pin To Net: Unknown Pin: Pin -13
+Add Pin To Net: Unknown Pin: Pin -15
+Add Pin To Net: Unknown Pin: Pin -16
+Add Pin To Net: Unknown Pin: Pin Jd3-1
+Add Pin To Net: Unknown Pin: Pin Jr1-1
+Add Pin To Net: Unknown Pin: Pin Jr1-2
+Add Pin To Net: Unknown Pin: Pin Jr1-3
+Add Pin To Net: Unknown Pin: Pin Jr1-4
+Add Pin To Net: Unknown Pin: Pin Jr2-1
+Add Pin To Net: Unknown Pin: Pin Jr2-2
+Add Pin To Net: Unknown Pin: Pin LEDd7-1
+Add Pin To Net: Unknown Pin: Pin Lr1-1
+Add Pin To Net: Unknown Pin: Pin Lr1-2
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=VCC Pin=Pp2-1
+Added Pin To Net: NetName=+20 Pin=Pp2-5
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Add Pin To Net: Unknown Pin: Pin RF Amp-1
+Add Pin To Net: Unknown Pin: Pin RF Amp-2
+Add Pin To Net: Unknown Pin: Pin RF Amp-3
+Add Pin To Net: Unknown Pin: Pin RF Amp-4
+Add Pin To Net: Unknown Pin: Pin RF Amp-5
+Add Pin To Net: Unknown Pin: Pin RF Amp-6
+Add Pin To Net: Unknown Pin: Pin RF Amp-7
+Add Pin To Net: Unknown Pin: Pin RF Amp-8
+Add Pin To Net: Unknown Pin: Pin RF Amp-9
+Added Pin To Net: NetName=VCC Pin=Rp2-1
+Added Pin To Net: NetName=VCC Pin=Rp3-1
+Added Pin To Net: NetName=VCC Pin=Rp5-1
+Added Pin To Net: NetName=VCC Pin=Rp7-2
+Added Pin To Net: NetName=VCC Pin=Rp10-1
+Added Pin To Net: NetName=VCC Pin=Rp11-1
+Added Pin To Net: NetName=VCC Pin=Rp12-1
+Added Pin To Net: NetName=VCC Pin=Rp17-1
+Added Pin To Net: NetName=VCC Pin=Rp18-1
+Added Pin To Net: NetName=VCC Pin=Rp19-1
+Added Pin To Net: NetName=+20 Pin=Rp21-2
+Add Pin To Net: Unknown Pin: Pin Up1-A1
+Add Pin To Net: Unknown Pin: Pin Up1-A2
+Add Pin To Net: Unknown Pin: Pin Up1-B1
+Add Pin To Net: Unknown Pin: Pin Up1-B2
+Add Pin To Net: Unknown Pin: Pin Up1-C1
+Add Pin To Net: Unknown Pin: Pin Up1-C2
+Added Pin To Net: NetName=VCC Pin=Up3-11
+Add Pin To Net: Unknown Pin: Pin Up4-1
+Add Pin To Net: Unknown Pin: Pin Up4-2
+Add Pin To Net: Unknown Pin: Pin Up4-3
+Add Pin To Net: Unknown Pin: Pin Up4-4
+Add Pin To Net: Unknown Pin: Pin Up4-6
+Add Pin To Net: Unknown Pin: Pin Up4-7
+Add Pin To Net: Unknown Pin: Pin Up4-8
+Add Pin To Net: Unknown Pin: Pin Up4-9
+Add Pin To Net: Unknown Pin: Pin Up4-10
+Add Pin To Net: Unknown Pin: Pin Up4-11
+Add Pin To Net: Unknown Pin: Pin Up4-12
+Add Pin To Net: Unknown Pin: Pin Up5-A1
+Add Pin To Net: Unknown Pin: Pin Up5-A2
+Add Pin To Net: Unknown Pin: Pin Up5-B1
+Add Pin To Net: Unknown Pin: Pin Up5-B2
+Add Pin To Net: Unknown Pin: Pin Up5-C1
+Add Pin To Net: Unknown Pin: Pin Up5-C2
+Added Pin To Net: NetName=+20 Pin=Up8-11
+Added Pin To Net: NetName=INT0 Pin=P?-6
+Added Pin To Net: NetName=INT0 Pin=R?-2
+Added Pin To Net: NetName=INT0 Pin=Ud1-34
+Added Net: Name=INT0
+Added Pin To Net: NetName=INT1 Pin=P?-5
+Added Pin To Net: NetName=INT1 Pin=R?-2
+Added Pin To Net: NetName=INT1 Pin=Ud1-11
+Added Net: Name=INT1
+Added Pin To Net: NetName=INT2 Pin=P?-4
+Added Pin To Net: NetName=INT2 Pin=R?-2
+Added Pin To Net: NetName=INT2 Pin=Ud1-18
+Added Net: Name=INT2
+Added Pin To Net: NetName=J3_+5V Pin=Rd20-1
+Added Net: Name=J3_+5V
+Added Pin To Net: NetName=J3_RX<-U1_U1TX Pin=Ud1-9
+Added Net: Name=J3_RX<-U1_U1TX
+Added Pin To Net: NetName=J3_TX->U1_U1RX Pin=Ud1-1
+Added Net: Name=J3_TX->U1_U1RX
+Added Pin To Net: NetName=J3_U1_U1CTS Pin=Ud1-10
+Added Net: Name=J3_U1_U1CTS
+Added Pin To Net: NetName=J3_U1_U1RTS Pin=Ud1-2
+Added Net: Name=J3_U1_U1RTS
+Added Pin To Net: NetName=NetLEDd7_2 Pin=Rd20-2
+Added Net: Name=NetLEDd7_2
+Added Pin To Net: NetName=SCL1 Pin=P?-2
+Added Pin To Net: NetName=SCL1 Pin=R?-2
+Added Pin To Net: NetName=SCL1 Pin=Ud1-32
+Added Net: Name=SCL1
+Added Pin To Net: NetName=SDA1 Pin=P?-3
+Added Pin To Net: NetName=SDA1 Pin=R?-2
+Added Pin To Net: NetName=SDA1 Pin=Ud1-31
+Added Net: Name=SDA1
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd1 0.1uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd2 0.1uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd3 0.1uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd4 0.1uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd5 0.1uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd6 1.5nF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd7 4.7uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd8 4.7uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd9 4.7uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd10 4.7uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd11 4.7uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cd12 4.7uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp5 10uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp9 4.7 uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp10 10uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp11 4.7uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp12 10uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp13 CC0402KRX7R7BB102
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp14 CC0402KRX7R7BB104
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp15 10uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp16 10uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp17 10uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp18 10uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp19 10uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp20 C0402C103K4RACTU
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp21 CC0402KRX7R7BB104
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp22 GRM155R61C225ME44D
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp23 10uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp24 4.7uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cp25 CC0402KRX7R7BB104
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr1 100pF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr2 100pF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr3 1000pF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr4 1uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr6 100pF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr7 1000pF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr8 1uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Jd1 22052061
+Add Class Member: Failed to add class member : Component Jd3 22052061
+Add Class Member: Failed to add class member : Component Jr1 1935187
+Add Class Member: Failed to add class member : Component Jr2 282843-2
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Jr3 EMPCB.SMAFSTJ.B.HT
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component LEDd5 XZCDGK54W-1VF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component LEDd6 XZCDGK54W-1VF
+Add Class Member: Failed to add class member : Component LEDd7 XZCDGK54W-1VF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Lp2 74438323010
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Lp3 74438323010
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Lp4 MLZ2012N100LT000
+Add Class Member: Failed to add class member : Component Lr1 18nH
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component P? 61300611121
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Pp1 61300211121
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Pp2 61300611121
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Pp3 61300611121
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component R? 2k
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component R? 2k
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component R? 2k
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component R? 2k
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component R? 2k
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd9 2kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd10 10kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd11 5.23kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd20 1k
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd22 2kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd23 300O
+Add Class Member: Failed to add class member : Component RF Amp TQL9093
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp2 RC0402FR-072KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp3 RC0402FR-072KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp5 RC0402FR-072KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp6 7.15kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp7 PE0402JRF070R02L
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp8 4.75kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp9 4.12kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp10 RC0402FR-072KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp11 RC0402FR-072KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp12 RC0402FR-072KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp13 RT0402CRD0747K5L
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp14 PE0402JRF070R02L
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp15 4.75kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp16 15kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp17 RC0402FR-072KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp18 RC0402FR-072KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp19 RC0402FR-072KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp20 RT0402DRE0718K2L
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp21 PE0402JRF070R02L
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rp22 RC0402FR-071KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rr01 15O
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rr1 20kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rr02 15O
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rr03 8.2O
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rr4 3kO
+Add Class Member: Failed to add class member : Component  VCO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Ud1 PIC32MK0128MCA048-IY8X
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Ud2 OPA209AID
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Up1 TPS61299DRLRQ1
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Up2 ADM7170ACPZ-R7
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Up3 LTC2945CMS#TRPBF
+Add Class Member: Failed to add class member : Component Up4 LP38798SDE-ADJNOPB
+Add Class Member: Failed to add class member : Component Up5 Comment
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Up6 LTC2945CMS#TRPBF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Up7 MIC2290YML-TR
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Up8 LTC2945CMS#TRPBF
