@@ -1,0 +1,161 @@
+Removed Pin From Net: NetName=GND Pin=Cp25-2
+Removed Pin From Net: NetName=Sensor 3 Pin=LEDd3-1
+Removed Pin From Net: NetName=VCC Pin=Rd8-1
+Removed Pin From Net: NetName=VCC Pin=Rd15-1
+Removed Pin From Net: NetName=VCC Pin=Rd16-1
+Removed Pin From Net: NetName=VCC Pin=Rd17-1
+Removed Pin From Net: NetName=VCC Pin=Rd18-1
+Removed Pin From Net: NetName=NetCr2_1 Pin=RFAmp-6
+Removed Pin From Net: NetName=VCC Pin=Rp17-1
+Removed Pin From Net: NetName=VCC Pin=Rp18-1
+Removed Pin From Net: NetName=SDA1 Pin=Rp18-2
+Removed Pin From Net: NetName=VCC Pin=Rp19-1
+Removed Pin From Net: NetName=Vopamp Pin=Rp21-2
+Removed Pin From Net: NetName=GND Pin=SW1-9
+Removed Pin From Net: NetName=GND Pin=SW1-10
+Removed Pin From Net: NetName=GND Pin=SW1-11
+Removed Pin From Net: NetName=GND Pin=SW1-12
+Removed Pin From Net: NetName=GND Pin=SW1-13
+Removed Pin From Net: NetName=GND Pin=SW1-14
+Removed Pin From Net: NetName=GND Pin=SW1-15
+Removed Pin From Net: NetName=GND Pin=SW1-16
+Removed Pin From Net: NetName=Sensor 3 Pin=Ud1-45
+Removed Pin From Net: NetName=GND Pin=Up8-4
+Removed Pin From Net: NetName=GND Pin=Up8-5
+Removed Pin From Net: NetName=GND Pin=Up8-6
+Removed Pin From Net: NetName=SDA1 Pin=Up8-8
+Removed Pin From Net: NetName=SDA1 Pin=Up8-9
+Removed Pin From Net: NetName=Vopamp Pin=Up8-11
+Removed Pin From Net: NetName=Vout Pin=VCO-1 (VCC)
+Removed Pin From Net: NetName=Net_2 Pin=VCO-5 (RF)
+Removed Member From Class: ClassName=RF Waveform Generator Schematic Member=Cp25
+Removed Member From Class: ClassName=RF Waveform Generator Schematic Member=Rd20
+Removed Member From Class: ClassName=RF Waveform Generator Schematic Member=Rd22
+Removed Member From Class: ClassName=RF Waveform Generator Schematic Member=Rd24
+Removed Member From Class: ClassName=RF Waveform Generator Schematic Member=Rp17
+Removed Member From Class: ClassName=RF Waveform Generator Schematic Member=Rp18
+Removed Member From Class: ClassName=RF Waveform Generator Schematic Member=Rp19
+Removed Member From Class: ClassName=RF Waveform Generator Schematic Member=Rp21
+Removed Member From Class: ClassName=RF Waveform Generator Schematic Member=Up8
+Change Component Footprint: Designator=SW1 Old Footprint=FP-218-8LPSTR-MFG New Footprint=FP-218-4LPSTR-MFG
+Change Component Comment : Designator=SW1 Old Comment=218-8LPSTR New Comment=218-4LPSTR
+Change Component Designator: OldDesignator=Rd3 NewDesignator=Rd4
+Change Component Designator: OldDesignator=Rd9 NewDesignator=Rd8
+Change Component Designator: OldDesignator=Rd10 NewDesignator=Rd9
+Change Component Designator: OldDesignator=Rd11 NewDesignator=Rd10
+Change Component Designator: OldDesignator=Rd12 NewDesignator=Rd11
+Change Component Designator: OldDesignator=Rd13 NewDesignator=Rd12
+Change Component Designator: OldDesignator=Rd14 NewDesignator=Rd13
+Change Component Designator: OldDesignator=Rd19 NewDesignator=Rd14
+Change Component Designator: OldDesignator=Rd20 NewDesignator=Rd15
+Change Component Designator: OldDesignator=Rd22 NewDesignator=Rd16
+Change Component Designator: OldDesignator=Rd23 NewDesignator=Rd17
+Change Component Designator: OldDesignator=Rd24 NewDesignator=Rd18
+Change Component Designator: OldDesignator=Rd25 NewDesignator=Rd3
+Change Managed Component Library Link : Designator=SW1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=48E30EA4-F80D-4C6E-A25B-FC9252211160 New ItemGUID=64B13A58-AF20-4795-9C25-C117B1E520E3 Old RevisionGUID=3C21B590-44FD-4298-A897-6ED23D8276B4 New RevisionGUID=098E1A56-ED91-4899-B612-15549798C989
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "FP-218-8LPSTR-MFG"; UniqueID = "\AICYXHBJ" ("\AICYXHBJ")
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Slide (Standard)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "25mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "8.44mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life"; Value = "1000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.246inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "25mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life"; Value = "1000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.05inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "218"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Washable"; Value = "Yes"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 0603CS82NXGLW
+Add Component: Footprint Not Found SON52P200X200X95-9N
+Add Pin To Net: Unknown Pin: Pin -1
+Add Pin To Net: Unknown Pin: Pin -2
+Add Pin To Net: Unknown Pin: Pin -3
+Add Pin To Net: Unknown Pin: Pin -4
+Add Pin To Net: Unknown Pin: Pin -5
+Add Pin To Net: Unknown Pin: Pin -6
+Add Pin To Net: Unknown Pin: Pin -7
+Add Pin To Net: Unknown Pin: Pin -8
+Add Pin To Net: Unknown Pin: Pin -9
+Add Pin To Net: Unknown Pin: Pin -11
+Add Pin To Net: Unknown Pin: Pin -12
+Add Pin To Net: Unknown Pin: Pin -13
+Add Pin To Net: Unknown Pin: Pin -15
+Add Pin To Net: Unknown Pin: Pin -16
+Added Pin To Net: NetName=Vopamp Pin=Cp23-1
+Added Pin To Net: NetName=Vopamp Pin=Cp24-1
+Add Pin To Net: Unknown Pin: Pin Lr1-1
+Add Pin To Net: Unknown Pin: Pin Lr1-2
+Add Pin To Net: Unknown Pin: Pin RF Amp-1
+Add Pin To Net: Unknown Pin: Pin RF Amp-2
+Add Pin To Net: Unknown Pin: Pin RF Amp-3
+Add Pin To Net: Unknown Pin: Pin RF Amp-4
+Add Pin To Net: Unknown Pin: Pin RF Amp-5
+Add Pin To Net: Unknown Pin: Pin RF Amp-6
+Add Pin To Net: Unknown Pin: Pin RF Amp-7
+Add Pin To Net: Unknown Pin: Pin RF Amp-8
+Add Pin To Net: Unknown Pin: Pin RF Amp-9
+Added Pin To Net: NetName=Sensor 3 Pin=Rp5-2
+Added Pin To Net: NetName=Vopamp Pin=Rp20-1
+Added Pin To Net: NetName=GND Pin=SW1-5
+Added Pin To Net: NetName=GND Pin=SW1-6
+Added Pin To Net: NetName=GND Pin=SW1-7
+Added Pin To Net: NetName=GND Pin=SW1-8
+Add Pin To Net: Unknown Pin: Pin Up1-A1
+Add Pin To Net: Unknown Pin: Pin Up1-A2
+Add Pin To Net: Unknown Pin: Pin Up1-B1
+Add Pin To Net: Unknown Pin: Pin Up1-B2
+Add Pin To Net: Unknown Pin: Pin Up1-C1
+Add Pin To Net: Unknown Pin: Pin Up1-C2
+Added Pin To Net: NetName=Sensor 3 Pin=Up3-7
+Add Pin To Net: Unknown Pin: Pin Up5-A1
+Add Pin To Net: Unknown Pin: Pin Up5-A2
+Add Pin To Net: Unknown Pin: Pin Up5-B1
+Add Pin To Net: Unknown Pin: Pin Up5-B2
+Add Pin To Net: Unknown Pin: Pin Up5-C1
+Add Pin To Net: Unknown Pin: Pin Up5-C2
+Added Pin To Net: NetName=Vopamp Pin=Up7-1
+Change Net Name : Old Net Name=Sensor 3 New Net Name=SCL1
+Added Pin To Net: NetName=Sensor 3 Pin=LEDd3-1
+Added Pin To Net: NetName=Sensor 3 Pin=Ud1-45
+Added Net: Name=Sensor 3
+Added Pin To Net: NetName=Vtune Pin=Cd6-1
+Added Pin To Net: NetName=Vtune Pin=Rd4-2
+Added Net: Name=Vtune
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr1 100pF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr2 100pF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr3 1000pF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr4 1uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr6 100pF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr7 1000pF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Cr8 1uF
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Jr3 EMPCB.SMAFSTJ.B.HT
+Add Class Member: Failed to add class member : Component Lr1 18nH
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd1 2kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd2 10kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd4 5.23kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd5 300O
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd9 RC0402FR-072KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd10 AC0402FR-0710KL
+Add Class Member: Failed to add class member : Component RF Amp TQL9093
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rr01 15O
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rr1 20kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rr02 15O
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rr03 8.2O
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rr4 3kO
+Add Class Member: Failed to add class member : Component  VCO
+Added Rule: Name=Schematic Supply Nets_11

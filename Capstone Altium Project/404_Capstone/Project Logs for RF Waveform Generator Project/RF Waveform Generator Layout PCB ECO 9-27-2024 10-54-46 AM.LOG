@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=GND Pin=Cp25-2
+Removed Pin From Net: NetName=Sensor 3 Pin=LEDd3-1
+Removed Pin From Net: NetName=VCC Pin=Rd8-1
+Removed Pin From Net: NetName=VCC Pin=Rd15-1
+Removed Pin From Net: NetName=VCC Pin=Rd16-1
+Removed Pin From Net: NetName=VCC Pin=Rd17-1
+Removed Pin From Net: NetName=VCC Pin=Rd18-1
+Removed Pin From Net: NetName=NetCr2_1 Pin=RFAmp-6
+Removed Pin From Net: NetName=VCC Pin=Rp17-1
+Removed Pin From Net: NetName=VCC Pin=Rp18-1
+Removed Pin From Net: NetName=SDA1 Pin=Rp18-2
+Removed Pin From Net: NetName=VCC Pin=Rp19-1
+Removed Pin From Net: NetName=Vopamp Pin=Rp21-2
+Removed Pin From Net: NetName=GND Pin=SW1-9
+Removed Pin From Net: NetName=GND Pin=SW1-10
+Removed Pin From Net: NetName=GND Pin=SW1-11
+Removed Pin From Net: NetName=GND Pin=SW1-12
+Removed Pin From Net: NetName=GND Pin=SW1-13
+Removed Pin From Net: NetName=GND Pin=SW1-14
+Removed Pin From Net: NetName=GND Pin=SW1-15
+Removed Pin From Net: NetName=GND Pin=SW1-16
+Removed Pin From Net: NetName=Sensor 3 Pin=Ud1-45
+Removed Pin From Net: NetName=GND Pin=Up8-4
+Removed Pin From Net: NetName=GND Pin=Up8-5
+Removed Pin From Net: NetName=GND Pin=Up8-6
+Removed Pin From Net: NetName=SDA1 Pin=Up8-8
+Removed Pin From Net: NetName=SDA1 Pin=Up8-9
+Removed Pin From Net: NetName=Vopamp Pin=Up8-11
+Removed Pin From Net: NetName=Vout Pin=VCO-1 (VCC)
+Removed Pin From Net: NetName=Net_2 Pin=VCO-5 (RF)
+Change Component Footprint: Designator=SW1 Old Footprint=FP-218-8LPSTR-MFG New Footprint=FP-218-4LPSTR-MFG
+Change Component Comment : Designator=SW1 Old Comment=218-8LPSTR New Comment=218-4LPSTR
+Change Component Designator: OldDesignator=Rd3 NewDesignator=Rd4
+Change Component Designator: OldDesignator=Rd9 NewDesignator=Rd8
+Change Component Designator: OldDesignator=Rd10 NewDesignator=Rd9
+Change Component Designator: OldDesignator=Rd11 NewDesignator=Rd10
+Change Component Designator: OldDesignator=Rd12 NewDesignator=Rd11
+Change Component Designator: OldDesignator=Rd13 NewDesignator=Rd12
+Change Component Designator: OldDesignator=Rd14 NewDesignator=Rd13
+Change Component Designator: OldDesignator=Rd19 NewDesignator=Rd14
+Change Component Designator: OldDesignator=Rd20 NewDesignator=Rd15
+Change Component Designator: OldDesignator=Rd22 NewDesignator=Rd16
+Change Component Designator: OldDesignator=Rd23 NewDesignator=Rd17
+Change Component Designator: OldDesignator=Rd24 NewDesignator=Rd18
+Change Component Designator: OldDesignator=Rd25 NewDesignator=Rd3
+Add Component: Footprint Not Found 0603CS82NXGLW
+Add Component: Footprint Not Found SON52P200X200X95-9N
+Add Pin To Net: Unknown Pin: Pin -1
+Add Pin To Net: Unknown Pin: Pin -2
+Add Pin To Net: Unknown Pin: Pin -3
+Add Pin To Net: Unknown Pin: Pin -4
+Add Pin To Net: Unknown Pin: Pin -5
+Add Pin To Net: Unknown Pin: Pin -6
+Add Pin To Net: Unknown Pin: Pin -7
+Add Pin To Net: Unknown Pin: Pin -8
+Add Pin To Net: Unknown Pin: Pin -9
+Add Pin To Net: Unknown Pin: Pin -11
+Add Pin To Net: Unknown Pin: Pin -12
+Add Pin To Net: Unknown Pin: Pin -13
+Add Pin To Net: Unknown Pin: Pin -15
+Add Pin To Net: Unknown Pin: Pin -16
+Added Pin To Net: NetName=Vopamp Pin=Cp23-1
+Added Pin To Net: NetName=Vopamp Pin=Cp24-1
+Add Pin To Net: Unknown Pin: Pin Lr1-1
+Add Pin To Net: Unknown Pin: Pin Lr1-2
+Add Pin To Net: Unknown Pin: Pin RF Amp-1
+Add Pin To Net: Unknown Pin: Pin RF Amp-2
+Add Pin To Net: Unknown Pin: Pin RF Amp-3
+Add Pin To Net: Unknown Pin: Pin RF Amp-4
+Add Pin To Net: Unknown Pin: Pin RF Amp-5
+Add Pin To Net: Unknown Pin: Pin RF Amp-6
+Add Pin To Net: Unknown Pin: Pin RF Amp-7
+Add Pin To Net: Unknown Pin: Pin RF Amp-8
+Add Pin To Net: Unknown Pin: Pin RF Amp-9
+Added Pin To Net: NetName=Sensor 3 Pin=Rp5-2
+Added Pin To Net: NetName=Vopamp Pin=Rp20-1
+Added Pin To Net: NetName=GND Pin=SW1-5
+Added Pin To Net: NetName=GND Pin=SW1-6
+Added Pin To Net: NetName=GND Pin=SW1-7
+Added Pin To Net: NetName=GND Pin=SW1-8
+Add Pin To Net: Unknown Pin: Pin Up1-A1
+Add Pin To Net: Unknown Pin: Pin Up1-A2
+Add Pin To Net: Unknown Pin: Pin Up1-B1
+Add Pin To Net: Unknown Pin: Pin Up1-B2
+Add Pin To Net: Unknown Pin: Pin Up1-C1
+Add Pin To Net: Unknown Pin: Pin Up1-C2
+Added Pin To Net: NetName=Sensor 3 Pin=Up3-7
+Add Pin To Net: Unknown Pin: Pin Up5-A1
+Add Pin To Net: Unknown Pin: Pin Up5-A2
+Add Pin To Net: Unknown Pin: Pin Up5-B1
+Add Pin To Net: Unknown Pin: Pin Up5-B2
+Add Pin To Net: Unknown Pin: Pin Up5-C1
+Add Pin To Net: Unknown Pin: Pin Up5-C2
+Added Pin To Net: NetName=Vopamp Pin=Up7-1
+Change Net Name : Old Net Name=Sensor 3 New Net Name=SCL1
+Added Pin To Net: NetName=Sensor 3 Pin=LEDd3-1
+Added Pin To Net: NetName=Sensor 3 Pin=Ud1-45
+Added Net: Name=Sensor 3
+Added Pin To Net: NetName=Vtune Pin=Cd6-1
+Added Pin To Net: NetName=Vtune Pin=Rd4-2
+Added Net: Name=Vtune
+Add Class Member: Failed to add class member : Component Lr1 18nH
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd4 5.23kO
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd9 RC0402FR-072KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd11 AC0402FR-0710KL
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd14 300O
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd15 300O
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd16 300O
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd17 300O
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Rd18 300O
+Add Class Member: Failed to add class member : Component RF Amp TQL9093
+Add Class Member: Failed to add class member : Component  VCO
