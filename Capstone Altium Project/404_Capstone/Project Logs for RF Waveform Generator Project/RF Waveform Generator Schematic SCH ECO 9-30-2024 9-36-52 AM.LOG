@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=RF Amp Old Footprint=SON52P200X200X95-9N New Footprint=PCBComponent_1
+Change Component Comment: Designator=RF Amp Old Comment=TQL9093 New Comment=Comment
+Add Pin To Net: Pin=Cp5-1 Old Net=NetCp5_1 New Net=Vdigital

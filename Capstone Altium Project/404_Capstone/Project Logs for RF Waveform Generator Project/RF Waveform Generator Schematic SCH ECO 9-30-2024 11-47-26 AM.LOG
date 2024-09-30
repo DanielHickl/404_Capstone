@@ -1,0 +1,6 @@
+Add Pin To Net: Pin=Cp5-1 Old Net=NetCp5_1 New Net=Vdigital
+Add Pin To Net: Pin=Cp5-2 Old Net=NetCp5_2 New Net=GND
+Add Pin To Net: Pin=Cp10-2 Old Net=NetCp10_2 New Net=GND
+Add Pin To Net: Pin=Cp11-2 Old Net=NetCp11_2 New Net=GND
+Add Pin To Net: Pin=Cp14-2 Old Net=NetCp14_2 New Net=GND
+Add Pin To Net: Pin=Rp9-2 Old Net=NetRp9_2 New Net=GND
