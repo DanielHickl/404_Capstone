@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=Vout Pin=VCO-1 (VCC)
+Removed Pin From Net: NetName=RFGND Pin=VCO-2
+Removed Pin From Net: NetName=RFGND Pin=VCO-3
+Removed Pin From Net: NetName=RFGND Pin=VCO-4
+Removed Pin From Net: NetName=Net_2 Pin=VCO-5 (RF)
+Removed Pin From Net: NetName=RFGND Pin=VCO-6
+Removed Pin From Net: NetName=RFGND Pin=VCO-7
+Removed Pin From Net: NetName=RFGND Pin=VCO-8
+Removed Pin From Net: NetName=RFGND Pin=VCO-10
+Removed Pin From Net: NetName=RFGND Pin=VCO-11
+Removed Pin From Net: NetName=RFGND Pin=VCO-12
+Removed Pin From Net: NetName=RFGND Pin=VCO-14
+Removed Pin From Net: NetName=RFGND Pin=VCO-15
+Removed Pin From Net: NetName=RFGND Pin=VCO-16
+Change Component Footprint: Designator=Up4 Old Footprint=DNT12_TEX New Footprint=LDO
+Change Footprint: Footprint Not Found SON52P200X200X95-9N
+Change Component Footprint: Designator=Up1 Old Footprint=TPS61299DRLRQ1 New Footprint=PCBComponent_1
+Added Component: Designator=(PCBComponent_1)
+Added Pin To Net: NetName=RFGND Pin=-1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=RFGND Pin=-3
+Added Pin To Net: NetName=RFGND Pin=-4
+Added Pin To Net: NetName=RFGND Pin=-5
+Added Pin To Net: NetName=Vout Pin=-6
+Add Pin To Net: Unknown Pin: Pin -7
+Add Pin To Net: Unknown Pin: Pin -8
+Add Pin To Net: Unknown Pin: Pin -9
+Add Pin To Net: Unknown Pin: Pin -10
+Add Pin To Net: Unknown Pin: Pin -11
+Add Pin To Net: Unknown Pin: Pin -12
+Add Pin To Net: Unknown Pin: Pin -13
+Add Pin To Net: Unknown Pin: Pin -15
+Add Pin To Net: Unknown Pin: Pin -16
+Add Pin To Net: Unknown Pin: Pin Up1-A1
+Add Pin To Net: Unknown Pin: Pin Up1-A2
+Add Pin To Net: Unknown Pin: Pin Up1-B1
+Add Pin To Net: Unknown Pin: Pin Up1-B2
+Add Pin To Net: Unknown Pin: Pin Up1-C1
+Add Pin To Net: Unknown Pin: Pin Up1-C2
+Add Pin To Net: Unknown Pin: Pin Up5-A1
+Add Pin To Net: Unknown Pin: Pin Up5-A2
+Add Pin To Net: Unknown Pin: Pin Up5-B1
+Add Pin To Net: Unknown Pin: Pin Up5-B2
+Add Pin To Net: Unknown Pin: Pin Up5-C1
+Add Pin To Net: Unknown Pin: Pin Up5-C2
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component  VCO

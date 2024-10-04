@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=Cp10-2
+Removed Pin From Net: NetName=Vdigital Pin=Cp11-1
+Removed Pin From Net: NetName=GND Pin=Cp11-2
+Removed Pin From Net: NetName=NetRp6_1 Pin=Rp9-1
+Removed Pin From Net: NetName=GND Pin=Rp9-2
+Removed Pin From Net: NetName=GND Pin=Up4-13
+Change Footprint: Footprint Not Found SON52P200X200X95-9N
+Change Component Footprint: Designator=Up1 Old Footprint=PCBCOMPONENT_1 New Footprint=Boost
+Change Component Footprint: Designator=Up5 Old Footprint=TPS61299DRLRQ1 New Footprint=Boost
+Add Pin To Net: Unknown Pin: Pin -7
+Add Pin To Net: Unknown Pin: Pin -8
+Add Pin To Net: Unknown Pin: Pin -9
+Add Pin To Net: Unknown Pin: Pin -10
+Add Pin To Net: Unknown Pin: Pin -11
+Add Pin To Net: Unknown Pin: Pin -12
+Add Pin To Net: Unknown Pin: Pin -13
+Add Pin To Net: Unknown Pin: Pin -15
+Add Pin To Net: Unknown Pin: Pin -16
+Added Pin To Net: NetName=GND Pin=Rp9-1
+Add Pin To Net: Unknown Pin: Pin Up1-A1
+Add Pin To Net: Unknown Pin: Pin Up1-A2
+Add Pin To Net: Unknown Pin: Pin Up1-B1
+Add Pin To Net: Unknown Pin: Pin Up1-B2
+Add Pin To Net: Unknown Pin: Pin Up1-C1
+Add Pin To Net: Unknown Pin: Pin Up1-C2
+Add Pin To Net: Unknown Pin: Pin Up5-A1
+Add Pin To Net: Unknown Pin: Pin Up5-A2
+Add Pin To Net: Unknown Pin: Pin Up5-B1
+Add Pin To Net: Unknown Pin: Pin Up5-B2
+Add Pin To Net: Unknown Pin: Pin Up5-C1
+Add Pin To Net: Unknown Pin: Pin Up5-C2
