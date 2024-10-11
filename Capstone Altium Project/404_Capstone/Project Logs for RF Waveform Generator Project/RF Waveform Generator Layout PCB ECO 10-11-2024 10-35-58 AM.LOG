@@ -1,0 +1,17 @@
+Change Footprint: Footprint Not Found PCBComponent_1
+Added Component: Designator=Up1(Boost)
+Added Component: Designator=Up5(Boost)
+Add Pin To Net: Unknown Pin: Pin Up1-A1
+Add Pin To Net: Unknown Pin: Pin Up1-A2
+Add Pin To Net: Unknown Pin: Pin Up1-B1
+Add Pin To Net: Unknown Pin: Pin Up1-B2
+Add Pin To Net: Unknown Pin: Pin Up1-C1
+Add Pin To Net: Unknown Pin: Pin Up1-C2
+Add Pin To Net: Unknown Pin: Pin Up5-A1
+Add Pin To Net: Unknown Pin: Pin Up5-A2
+Add Pin To Net: Unknown Pin: Pin Up5-B1
+Add Pin To Net: Unknown Pin: Pin Up5-B2
+Add Pin To Net: Unknown Pin: Pin Up5-C1
+Add Pin To Net: Unknown Pin: Pin Up5-C2
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Up1 TPS61299DRLRQ1
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Up5 Comment
