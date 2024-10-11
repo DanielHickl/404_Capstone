@@ -1,0 +1,30 @@
+Change Footprint: Footprint Not Found PCBComponent_1
+Added Component: Designator=(VCO)
+Add Pin To Net: Unknown Pin: Pin -1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=RFGND Pin=-3
+Added Pin To Net: NetName=RFGND Pin=-4
+Add Pin To Net: Unknown Pin: Pin -5
+Added Pin To Net: NetName=Vout Pin=-6
+Added Pin To Net: NetName=RFGND Pin=-7
+Added Pin To Net: NetName=RFGND Pin=-8
+Added Pin To Net: NetName=RFGND Pin=-9
+Added Pin To Net: NetName=Vtune Pin=-10
+Added Pin To Net: NetName=RFGND Pin=-11
+Added Pin To Net: NetName=RFGND Pin=-12
+Add Pin To Net: Unknown Pin: Pin -13
+Added Pin To Net: NetName=RFGND Pin=-15
+Added Pin To Net: NetName=RFGND Pin=-16
+Add Pin To Net: Unknown Pin: Pin Up1-A1
+Add Pin To Net: Unknown Pin: Pin Up1-A2
+Add Pin To Net: Unknown Pin: Pin Up1-B1
+Add Pin To Net: Unknown Pin: Pin Up1-B2
+Add Pin To Net: Unknown Pin: Pin Up1-C1
+Add Pin To Net: Unknown Pin: Pin Up1-C2
+Add Pin To Net: Unknown Pin: Pin Up5-A1
+Add Pin To Net: Unknown Pin: Pin Up5-A2
+Add Pin To Net: Unknown Pin: Pin Up5-B1
+Add Pin To Net: Unknown Pin: Pin Up5-B2
+Add Pin To Net: Unknown Pin: Pin Up5-C1
+Add Pin To Net: Unknown Pin: Pin Up5-C2
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component  VCO

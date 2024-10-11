@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=VCC Pin=Cp5-1
+Removed Pin From Net: NetName=GND Pin=Cp5-2
+Removed Pin From Net: NetName=NetRp8_2 Pin=Cp9-1
+Removed Pin From Net: NetName=NetRp8_2 Pin=Cp10-1
+Removed Pin From Net: NetName=GND Pin=Cp10-2
+Removed Pin From Net: NetName=Vdigital Pin=Cp11-1
+Removed Pin From Net: NetName=GND Pin=Cp11-2
+Removed Pin From Net: NetName=NetUp3_2 Pin=Cp14-1
+Removed Pin From Net: NetName=GND Pin=Cp14-2
+Removed Pin From Net: NetName=NetRp6_1 Pin=Rp9-1
+Removed Pin From Net: NetName=GND Pin=Rp9-2
+Removed Pin From Net: NetName=VCC Pin=Up1-1
+Removed Pin From Net: NetName=NetLp2_2 Pin=Up1-2
+Removed Pin From Net: NetName=VCC Pin=Up1-3
+Removed Pin From Net: NetName=GND Pin=Up1-4
+Removed Pin From Net: NetName=NetRp8_2 Pin=Up1-5
+Removed Pin From Net: NetName=NetRp8_1 Pin=Up1-6
+Removed Pin From Net: NetName=GND Pin=Up4-13
+Removed Pin From Net: NetName=VCC Pin=Up5-1
+Removed Pin From Net: NetName=NetLp3_2 Pin=Up5-2
+Removed Pin From Net: NetName=VCC Pin=Up5-3
+Removed Pin From Net: NetName=GND Pin=Up5-4
+Removed Pin From Net: NetName=NetCp18_1 Pin=Up5-5
+Removed Pin From Net: NetName=NetRp15_1 Pin=Up5-6
+Removed Pin From Net: NetName=RFGND Pin=VCO-2
+Removed Pin From Net: NetName=RFGND Pin=VCO-3
+Removed Pin From Net: NetName=RFGND Pin=VCO-4
+Removed Pin From Net: NetName=Vout Pin=VCO-5 (RF)
+Removed Pin From Net: NetName=RFGND Pin=VCO-6
+Removed Pin From Net: NetName=RFGND Pin=VCO-7
+Removed Pin From Net: NetName=RFGND Pin=VCO-8
+Removed Pin From Net: NetName=RFGND Pin=VCO-10
+Removed Pin From Net: NetName=RFGND Pin=VCO-11
+Removed Pin From Net: NetName=RFGND Pin=VCO-12
+Removed Pin From Net: NetName=RFGND Pin=VCO-13 (Vt)
+Removed Pin From Net: NetName=RFGND Pin=VCO-14
+Removed Pin From Net: NetName=RFGND Pin=VCO-15
+Removed Pin From Net: NetName=RFGND Pin=VCO-16
+Change Footprint: Footprint Not Found PCBComponent_1
+Added Component: Designator=(VCO)
+Add Pin To Net: Unknown Pin: Pin -1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=RFGND Pin=-3
+Added Pin To Net: NetName=RFGND Pin=-4
+Add Pin To Net: Unknown Pin: Pin -5
+Added Pin To Net: NetName=Vout Pin=-6
+Added Pin To Net: NetName=RFGND Pin=-7
+Added Pin To Net: NetName=RFGND Pin=-8
+Added Pin To Net: NetName=RFGND Pin=-8
+Add Pin To Net: Unknown Pin: Pin -9
+Added Pin To Net: NetName=Vtune Pin=-10
+Added Pin To Net: NetName=RFGND Pin=-11
+Added Pin To Net: NetName=RFGND Pin=-12
+Add Pin To Net: Unknown Pin: Pin -13
+Added Pin To Net: NetName=RFGND Pin=-15
+Added Pin To Net: NetName=RFGND Pin=-16
+Added Pin To Net: NetName=GND Pin=Rp9-1
+Add Pin To Net: Unknown Pin: Pin Up1-A1
+Add Pin To Net: Unknown Pin: Pin Up1-A2
+Add Pin To Net: Unknown Pin: Pin Up1-B1
+Add Pin To Net: Unknown Pin: Pin Up1-B2
+Add Pin To Net: Unknown Pin: Pin Up1-C1
+Add Pin To Net: Unknown Pin: Pin Up1-C2
+Add Pin To Net: Unknown Pin: Pin Up5-A1
+Add Pin To Net: Unknown Pin: Pin Up5-A2
+Add Pin To Net: Unknown Pin: Pin Up5-B1
+Add Pin To Net: Unknown Pin: Pin Up5-B2
+Add Pin To Net: Unknown Pin: Pin Up5-C1
+Add Pin To Net: Unknown Pin: Pin Up5-C2
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Black
+Change Net Color : Old Net Color=Yellow New Net Color=Black
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component  VCO
