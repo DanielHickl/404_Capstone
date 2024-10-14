@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Daniel's Laptop\Documents\Daniel College\2024 Victory Lap\Fall Semester\ECEN 404\404_Capstone\Capstone Altium Project\404_Capstone\RF Waveform Generator Layout.PcbDoc
 Date     : 10/14/2024
-Time     : 4:15:44 PM
+Time     : 4:53:02 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -15,7 +15,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net RFGND Between Pad Cr3-2(1669.37mil,305mil) on RF Top Layer And Via (1720mil,310mil) from RF Top Layer to Analog Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net RFGND Between Pad Cr3-2(1669.37mil,305mil) on RF Top Layer And Track (1717.835mil,310mil)(1720mil,310mil) on RF Top Layer 
    Violation between Un-Routed Net Constraint: Net RFGND Between Pad Cr4-2(1669.685mil,375mil) on RF Top Layer And Via (1715mil,375mil) from RF Top Layer to Analog Bottom Layer 
    Violation between Un-Routed Net Constraint: Net RFGND Between Via (1430mil,330mil) from RF Top Layer to Analog Bottom Layer And Pad Cr6-1(1485mil,325mil) on RF Top Layer 
    Violation between Un-Routed Net Constraint: Net RFGND Between Pad Cr7-1(1899.685mil,585.039mil) on RF Top Layer And Via (1940.633mil,583.983mil) from RF Top Layer to Analog Bottom Layer 
@@ -207,11 +207,10 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (9.514mil < 10mil) Between Pad Up7-3(990.158mil,1202.824mil) on Analog Bottom Layer And Pad Up7-9(1000mil,1162.923mil) on Analog Bottom Layer [Bottom Solder] Mask Sliver [9.514mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.514mil < 10mil) Between Pad Up7-6(990.158mil,1123.021mil) on Analog Bottom Layer And Pad Up7-9(1000mil,1162.923mil) on Analog Bottom Layer [Bottom Solder] Mask Sliver [9.514mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.514mil < 10mil) Between Pad Up7-7(1009.842mil,1123.021mil) on Analog Bottom Layer And Pad Up7-9(1000mil,1162.923mil) on Analog Bottom Layer [Bottom Solder] Mask Sliver [9.514mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (8.231mil < 10mil) Between Via (1455mil,250mil) from RF Top Layer to Analog Bottom Layer And Via (1495mil,240mil) from RF Top Layer to Analog Bottom Layer [Top Solder] Mask Sliver [8.231mil] / [Bottom Solder] Mask Sliver [8.231mil]
    Violation between Minimum Solder Mask Sliver Constraint: (7.651mil < 10mil) Between Via (1775mil,625mil) from RF Top Layer to Analog Bottom Layer And Via (1810mil,585mil) from RF Top Layer to Analog Bottom Layer [Top Solder] Mask Sliver [7.651mil] / [Bottom Solder] Mask Sliver [7.651mil]
    Violation between Minimum Solder Mask Sliver Constraint: (6.051mil < 10mil) Between Via (600mil,990mil) from RF Top Layer to Analog Bottom Layer And Via (630mil,965mil) from RF Top Layer to Analog Bottom Layer [Top Solder] Mask Sliver [6.051mil] / [Bottom Solder] Mask Sliver [6.051mil]
    Violation between Minimum Solder Mask Sliver Constraint: (6.051mil < 10mil) Between Via (630mil,965mil) from RF Top Layer to Analog Bottom Layer And Via (660mil,990mil) from RF Top Layer to Analog Bottom Layer [Top Solder] Mask Sliver [6.051mil] / [Bottom Solder] Mask Sliver [6.051mil]
-Rule Violations :147
+Rule Violations :146
 
 Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Arc (1446.496mil,226.299mil) on Top Overlay And Pad RF Amp-1(1461.26mil,200.709mil) on RF Top Layer [Top Overlay] to [Top Solder] clearance [9.843mil]
@@ -301,6 +300,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 252
+Violations Detected : 251
 Waived Violations : 0
 Time Elapsed        : 00:00:01
