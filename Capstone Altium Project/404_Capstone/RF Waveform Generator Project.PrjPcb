@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -84,6 +84,57 @@ GenerateClassCluster=0
 DocumentUniqueId=OKQRRGFJ
 
 [Document3]
+DocumentPath=TPS61299YBHR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MJHMBKEL
+
+[Document4]
+DocumentPath=Boost Footprint.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=APNJHBGC
+
+[Document5]
+DocumentPath=LDO Footprint.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WRXXEBAP
+
+[Document6]
 DocumentPath=VCO Footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVJVEYON
 
-[Document4]
+[Document7]
 DocumentPath=RF Amp Footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSHRKIVM
 
-[Document5]
+[Document8]
 DocumentPath=RF Inductor Footprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,6 +184,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPCDXXRY
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for RF Waveform Generator Project\Design Rule Check - RF Waveform Generator Layout.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
