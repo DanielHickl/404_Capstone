@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VCC Pin=Up1-1
+Removed Pin From Net: NetName=NetLp2_2 Pin=Up1-2
+Removed Pin From Net: NetName=VCC Pin=Up1-3
+Removed Pin From Net: NetName=NetRp8_1 Pin=Up1-4
+Removed Pin From Net: NetName=NetCp9_1 Pin=Up1-5
+Removed Pin From Net: NetName=GND Pin=Up1-6
+Removed Pin From Net: NetName=GND Pin=Up4-13
+Removed Pin From Net: NetName=VCC Pin=Up5-1
+Removed Pin From Net: NetName=VCC Pin=Up5-3
+Removed Pin From Net: NetName=NetCp18_1 Pin=Up5-5
+Removed Pin From Net: NetName=GND Pin=Up5-6
+Change DesignItemId: Component "Up5" not found
+Change Comment: Unknown Component : Up5
+Change Description: Unknown Component : Up5
+Change Library: Component "Up5" not found
+Change component parameters: Component "Up5" not found
+Add Pin To Net: Unknown Pin: Pin Up1-A1
+Add Pin To Net: Unknown Pin: Pin Up1-A2
+Add Pin To Net: Unknown Pin: Pin Up1-B1
+Add Pin To Net: Unknown Pin: Pin Up1-B2
+Add Pin To Net: Unknown Pin: Pin Up1-C1
+Add Pin To Net: Unknown Pin: Pin Up1-C2
