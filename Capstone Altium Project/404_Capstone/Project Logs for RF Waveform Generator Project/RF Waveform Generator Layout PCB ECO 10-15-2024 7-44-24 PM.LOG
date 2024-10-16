@@ -1,0 +1,19 @@
+Added Component: Designator=Up5(Boost)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Power Management"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin Up1-A1
+Add Pin To Net: Unknown Pin: Pin Up1-A2
+Add Pin To Net: Unknown Pin: Pin Up1-B1
+Add Pin To Net: Unknown Pin: Pin Up1-B2
+Add Pin To Net: Unknown Pin: Pin Up1-C1
+Add Pin To Net: Unknown Pin: Pin Up1-C2
+Add Pin To Net: Unknown Pin: Pin Up5-A1
+Add Pin To Net: Unknown Pin: Pin Up5-B1
+Add Pin To Net: Unknown Pin: Pin Up5-C1
+Add Pin To Net: Unknown Pin: Pin Up5-C2
+Added Pin To Net: NetName=NetLp3_2 Pin=Lp3-2
+Added Net: Name=NetLp3_2
+Added Pin To Net: NetName=NetRp15_1 Pin=Rp15-1
+Added Net: Name=NetRp15_1
+Added Member To Class: ClassName=RF Waveform Generator Schematic Member=Component Up5 TPS61299YBHR
