@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: RF Waveform Generator Layout.GBR   10/16/2024  11:30:58 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                RF Top Layer                            
+.GP1                RFGND                                   
+.G1                 PWR                                     
+.G2                 Signal                                  
+.GP2                GND                                     
+.GBL                Analog Bottom Layer                     
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
